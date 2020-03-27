@@ -2,7 +2,7 @@
 
 ### Easy
 
-- [] Montar o layout do jogo: tabuleiro e vez do jogador
+- [ ] Montar o layout do jogo: tabuleiro e vez do jogador
 
 
 

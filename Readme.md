@@ -2,7 +2,9 @@
 
 ### Easy
 
-- [x] Construir o jogo da velha
+- [] Montar o layout do jogo: tabuleiro e vez do jogador
+
+
 
 ## Tecnologias :
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

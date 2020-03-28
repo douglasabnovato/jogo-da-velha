@@ -2,8 +2,12 @@
 
 ### Easy
 
-- [x] Montar o layout do jogo: tabuleiro e vez do jogador
-- [ ] Controlar os comandos do jogo
+- [x] Montar o tabuleiro do layout do jogo 
+- [x] Montar a vez do jogador do layout do jogo
+- [ ] Controlar os comandos do jogador x e o
+- [ ] Controlar quem ganhei
+
+eventos/metodos
 
 ## Tecnologias :
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

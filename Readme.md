@@ -7,6 +7,10 @@
 - [x] Controlar os comandos dos jogadores x e o: atualizarMostrador() e inicializarEspacos()
 - [x] Controlar quem ganhou: verificarVencedor()
 
+### Moderate
+- desafio 1: um botão para jogar de novo
+- desafio 2: informar mensagem que deu velha
+
 ## Tecnologias :
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)

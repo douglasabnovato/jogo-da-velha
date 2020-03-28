@@ -29,3 +29,15 @@
     height: 252px;
     margin: auto;
 }
+
+.footer{
+    margin: auto;
+    margin-top: 40px;
+    width: 252px;
+    height: 80px;
+}
+
+.mostrador p{
+    float: left; 
+    margin-right:10px;
+}

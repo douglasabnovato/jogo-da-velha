@@ -4,10 +4,8 @@
 
 - [x] Montar o tabuleiro do layout do jogo 
 - [x] Montar a vez do jogador do layout do jogo
-- [ ] Controlar os comandos do jogador x e o
-- [ ] Controlar quem ganhei
-
-eventos/metodos
+- [ ] Controlar os comandos dos jogadores x e o
+- [ ] Controlar quem ganhou
 
 ## Tecnologias :
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

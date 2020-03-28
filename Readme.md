@@ -4,7 +4,7 @@
 
 - [x] Montar o tabuleiro do layout do jogo 
 - [x] Montar a vez do jogador do layout do jogo
-- [ ] Controlar os comandos dos jogadores x e o: atualizarMostrador() e inicializarEspacos()
+- [x] Controlar os comandos dos jogadores x e o: atualizarMostrador() e inicializarEspacos()
 - [x] Controlar quem ganhou: verificarVencedor()
 
 ## Tecnologias :
